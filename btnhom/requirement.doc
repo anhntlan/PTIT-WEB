@@ -1,0 +1,23 @@
+d. Trang Thống kê
+• Yêu cầu:
+        o Hiển thị bảng thống kê tổng hợp kết quả của tất cả sinh viên tham gia các
+        kỳ thi (Fix dữ liệu với frontend).
+        o Các thống kê bao gồm tổng số lần tham gia, tỷ lệ hoàn thành, điểm trung
+        bình, phân phối điểm số (ví dụ: biểu đồ)
+        o Cung cấp khả năng lọc kết quả theo kỳ thi, ngày tháng, hoặc một số tiêu
+        chí cụ thể khác.
+        o Tích hợp tính năng xuất báo cáo dưới dạng PDF hoặc Excel.
+        o Các chức năng này có thể fix dữ liệu để hiển thị
+
+e. Trang Xem Kết quả của Từng Sinh Viên
+• Yêu cầu:
+
+        o Cho phép tìm kiếm sinh viên bằng tên hoặc mã số sinh viên để xem kết
+        quả thi cụ thể của họ.
+        o Hiển thị danh sách các kỳ thi mà sinh viên đã tham gia, cùng với điểm số,
+        trạng thái (hoàn thành/ không hoàn thành), và thời gian tham gia.
+        o Cung cấp chi tiết kết quả cho mỗi kỳ thi, bao gồm câu trả lời của sinh
+        viên, đáp án đúng, và giải thích cho mỗi câu hỏi nếu có.
+        o Tính năng xuất báo cáo kết quả của sinh viên dưới dạng tài liệu có thể in
+        được.
+        o Các chức năng này có thể fix dữ liệu để hiển thị
